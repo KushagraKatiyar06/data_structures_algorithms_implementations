@@ -1,4 +1,4 @@
-#linked list implementation of stack
+# doubly linked list implementation of stack
 
 class Node:
     def __init__(self, value = None, next = None, previous = None):

@@ -1,3 +1,5 @@
+# basic hash table implementation with no collision handling
+
 class HashTable:
     def __init__(self, size = None):
         self.size = size
