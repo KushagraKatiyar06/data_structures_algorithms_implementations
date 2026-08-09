@@ -1,3 +1,5 @@
+# hash table implementation with separate chaining collision handling
+
 class HashTable:
     def __init__(self, size = None):
         self.size = size
